@@ -7,11 +7,11 @@ function App() {
       <h1>Weather App</h1>
       <footer>
         This project was coded by {" "}
-        <a href="https://beamish-pie-414eb4.netlify.app/" target="_blank">
+        <a href="https://beamish-pie-414eb4.netlify.app/" target="_blank" rel="noreferrer">
           Triin Liis
         </a>{" "}
         and is{" "}
-        <a href="https://github.com/triinliis/tlk-react-weather-app" target="_blank">
+        <a href="https://github.com/triinliis/tlk-react-weather-app" target="_blank" rel="noreferrer">
           open-sourced on GitHub
         </a>
       </footer>
