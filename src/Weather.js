@@ -38,7 +38,7 @@ export default function Weather() {
                 <div className="col-1"></div>
                 <div className="col-5">
                     <ul className="maintext">
-                        <li className="currentime" id="date-time">Thursday, Jan 26</li>
+                        <li className="currentime" id="date-time">Thursday, Jan 26 ⏱ 00:45</li>
                         <li>
                             <span className="current-weather" id="description"> Drizzle </span>
                         </li>
