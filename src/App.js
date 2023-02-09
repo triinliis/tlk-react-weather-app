@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <div className="container">
-        <Weather />
+        <Weather defaultCity="Tallinn"/>
         <footer>
           This project was coded by {" "}
           <a href="https://beamish-pie-414eb4.netlify.app/" target="_blank" rel="noreferrer">
