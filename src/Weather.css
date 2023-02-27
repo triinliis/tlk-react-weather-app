@@ -1,3 +1,20 @@
 .Weather {
     border: 1px solid #dadde1;
 }
+
+.Weather canvas {
+    margin-right: 10px;
+    margin-top: 5px;
+    display: inline-block;
+}
+
+.temp {
+    font-size: 180%;
+    font-family: "Gill Sans", sans-serif;
+  }
+
+  .unit {
+    font-size: 100%;
+    font-family: "Gill Sans", sans-serif;
+    display: inline-block;
+  }
