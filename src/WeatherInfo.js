@@ -12,7 +12,7 @@ export default function WeatherInfo(props) {
                         <span className="bigweather">
                             <h2 id="city">{props.data.city}</h2>
                             <span className="float-left">    
-                                <WeatherIcon code={props.data.icon} />
+                                <WeatherIcon code={props.data.icon} size={52}/>
                             </span>
                             <WeatherTemperature celsius={props.data.temperature} />
                         </span>
